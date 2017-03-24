@@ -1,0 +1,3 @@
+[submodule "lib/sflow"]
+	path = lib/sflow
+	url = https://github.com/NETWAYS/sflow.git
